@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BluTrip or Bray
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning about game development, especially with making Pokemon Showdown-related content.
+- 🌱 I’m currently a CS major working on various video game and terrain generation projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
